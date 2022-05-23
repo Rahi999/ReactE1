@@ -1,0 +1,38 @@
+.Parent{
+  border-radius:10px;
+  height: 600px;
+ background-color:snow;
+  margin: auto;
+  width:400px;
+
+}
+.head{
+  background-color: #7ea;
+  height:200px;
+  border-radius:10px;
+}
+.search{
+  height:40px;
+  width: 100%;
+  border:0px;
+  border-radius:10px;
+  font-size:25px;
+ 
+
+}
+.child1{
+  display:flex;
+}
+.button{
+  height:40px;
+  widows: 40px;border:0px;
+  font-size:25px;
+ 
+  
+}
+.child2{
+  display:flex;
+  justify-content:space-evenly;
+  margin-top:30px;
+ 
+}

@@ -1,0 +1,13 @@
+.counter {
+  /* TODO */
+  display:flex;
+  
+}
+
+button{
+  height:20px;
+
+}
+span{
+  margin-left: 10px;margin-right:10px
+}
